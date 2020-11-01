@@ -5,5 +5,8 @@
 
   $title = "THIS IS TESTING";
 
+  $files1 = scandir($dir);
+  print_r($files1);
+
   return $title;
 ?>
