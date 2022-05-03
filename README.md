@@ -1,3 +1,1 @@
-# TestForGit
-A Repository for testing the version control system "Git"
-damnnnnn
+I am CloneOfN, i am requesting to push this commit to a new branch of the master repo, i can't find any clear answer by google so i decided to experiment this myself, to see if is this action is even possible.
